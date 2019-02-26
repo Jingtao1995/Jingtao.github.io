@@ -1,0 +1,19 @@
+Journal for Personal Portfolio Development
+
+Challenges:
+
+Trying to use Gatsby develop portfolio but failed, not very familiar with React and GraphQL, etc
+
+1- The Menu bar in the right side of the page is hard to modify during the implementation and even harder to organize the position and keep the original page's scale and contexts when the menu bar extended
+
+2- The shifting pictures(slides) at the top of the page is hard to implement and not influence the header. To conqure this problem, I searched online and choose the FlexSlider 2 API, implemented through flexslider.css
+
+3- The picture is hard to be placed properly and auto fit the page size, so I get the skeleton.css from http://getskeleton.com/ to make the picture sit in grid better and make the page more clean and organized.
+
+Issues:
+
+1- The most often issue is the CSS style issue, it takes lots of time and always not fit for some reasons, so I refer some designers' idea and their base CSS setting to make the things easier. 
+
+2- The second frequent issue is about Jquery. In order to make the page looks and acts smoothly, I use a lot of API from online. Which will always cause javascript error and conflicts. This was very annoying.
+
+3- The third issue might be the formatting issue, in order to make clean and Concise style CV, I've use a lot of light color font and high contract color background, however, to find the best color is not a single task. The fond would also a big problem to compatible to this style. Thanks for greate Google and the stackoverflow.com which providing series of solutions. 
