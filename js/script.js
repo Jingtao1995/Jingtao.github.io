@@ -3,7 +3,7 @@
 
 //------------------------------------- Waiting for the entire site to load ------------------------------------------------//
 
-jQuery(window).on('load', function() { 
+jQuery(window).load(function() { 
 		jQuery("#loaderInner").fadeOut(); 
 		jQuery("#loader").delay(400).fadeOut("slow"); 
 });
